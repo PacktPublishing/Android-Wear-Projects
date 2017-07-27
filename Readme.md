@@ -13,13 +13,15 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 The code will look like the following:
 ```
+compile 'com.google.android.support:wearable:2.0.0' compile
+'com.google.android.gms:play-services-wearable:10.0.1' provided
+'com.google.android.wearable:wearable:2.0.0'
+```
+
 To be able to follow with this book, you need a computer with the latest Android Studio
 version installed. You need internet to set up all the required SDK for Wear development. If
 you have a Wear device to test the application, that would be good; otherwise, Android
 Wear emulators will do the magic.
-```
-
-In this book, we’ll start with installing Android studio and its components, and setting it up ready for Android N. We teach you how to take inputs from users, create images and interact with them, and work with sprites to create animations. You’ll then explore the various collision detection methods and use sprites to create an explosion. Moving on, you’ll go through the process of UI creation and see how to create buttons as well as display the score and other parameters on screen.
 
 ## Related Products
 * [Mastering Android Wear Application Development](https://www.packtpub.com/application-development/mastering-android-wear-application-development?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785881725)

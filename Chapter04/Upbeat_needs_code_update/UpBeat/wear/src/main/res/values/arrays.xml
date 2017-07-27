@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="screens">
+        <item>water</item>
+        <item>heart</item>
+        <item>step</item>
+    </string-array>
+
+    <string-array name="water">
+        <item>Drink water</item>
+        <item>water_bottle_flat</item>
+    </string-array>
+
+    <string-array name="heart">
+        <item>Heart Beat</item>
+        <item>ic_heart_icon</item>
+    </string-array>
+
+    <string-array name="step">
+        <item>Step Counter</item>
+        <item>ic_step_icon</item>
+    </string-array>
+
+
+</resources>

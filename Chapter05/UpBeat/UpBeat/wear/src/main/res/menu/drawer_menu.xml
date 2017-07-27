@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_about"
+          android:icon="@drawable/ic_info"
+          android:title="About"/>
+    <item android:id="@+id/menu_helathtips"
+          android:icon="@drawable/ic_info"
+          android:title="Health tips" />
+    <item android:id="@+id/menu_calory"
+          android:icon="@drawable/ic_info"
+          android:title="Calories chart" />
+
+</menu>

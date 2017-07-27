@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.packt.upbeat.fragments.HeartRateFragment"
+    tools:deviceIds="wear">
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <!--<ImageView-->
+        <!--android:layout_weight="1"-->
+        <!--android:src="@drawable/ic_heart_icon"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+        <com.packt.upbeat.utils.HeartBeatView
+            android:id="@+id/heartbeat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="25dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/heart_rate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="left|center"
+            android:hint="Reading"
+            android:textColor="@color/colorAccent"
+            android:textColorHint="#eaeaea"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</android.support.wearable.view.BoxInsetLayout>

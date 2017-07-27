@@ -1,5 +1,5 @@
 # Android Wear Projects
-This is the code repository for [Android Wear Projects](https://www.packtpub.com/web-development/android-wear-projects?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787123229, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Android Wear Projects](https://www.packtpub.com/web-development/android-wear-projects?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787123229), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Android Wear Projects is your opportunity to step into the exciting new world of Android Wear app development. This book will help you to master the skills in Android Wear programming and give you a complete insight on wear app development.
 

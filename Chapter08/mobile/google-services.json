@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356448568854",
+    "firebase_url": "https://packt-wear.firebaseio.com",
+    "project_id": "packt-wear",
+    "storage_bucket": "packt-wear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356448568854:android:5d169012a570d53e",
+        "android_client_info": {
+          "package_name": "com.packt.smartchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356448568854-ck2irhoe34hfncm2p7knb6l6g7k2vv59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXPa3aOJ-YPV2xp_guMp-1uoRTRVkS8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

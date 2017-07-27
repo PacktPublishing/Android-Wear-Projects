@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wear-note-1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="add_a_note">Add a Note</string>
+    <string name="delete">Remove</string>
+    <string name="note_saved">Saved</string>
+    <string name="note_removed">Note Removed</string>
+    <string name="cancel">Cancelled</string>
+</resources>

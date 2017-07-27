@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WearMapDiary</string>
+    <string name="intro_text">Long click to exit the map.</string>
+    <string name="action_settings">Settings</string>
+    <string name="MEMORYDIALPOGTAG">MemoryDialog</string>
+    <string name="dialog_title">Add your notes</string>
+    <string name="DialogSaveButton">SAVE</string>
+    <string name="DialogCancelButton">Cancel</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/container"
+    tools:context="com.ashok.packt.wear_note_1.activity.MainActivity"
+    tools:deviceIds="wear"
+    app:layout_box="all"
+    android:padding="5dp">
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/edit_text"
+            android:gravity="center"
+            android:inputType="textCapSentences|textAutoCorrect"
+            android:layout_gravity="center"
+            android:imeOptions="actionSend"
+            android:textColorHint="@color/orange"
+            android:hint="@string/add_a_note"/>
+
+        <android.support.wearable.view.WearableRecyclerView
+            android:id="@+id/wearable_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+</android.support.wearable.view.BoxInsetLayout>

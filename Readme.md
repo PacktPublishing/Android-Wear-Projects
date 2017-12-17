@@ -29,6 +29,3 @@ Wear emulators will do the magic.
 * [Android Things Projects](https://www.packtpub.com/hardware-and-creative/android-things-projects?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787289246)
 
 * [Learning Android Game Development](https://www.packtpub.com/application-development/learning-android-game-development?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785880957)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
